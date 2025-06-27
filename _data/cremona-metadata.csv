@@ -1,0 +1,11 @@
+objectid,format,filename,title,description,latitude,longitude,source,identifier,type,language,rights,rightsstatement,youtubeid,vimeoid,creator,date,subject,location
+coll001,image/jpeg,test001.jpg,Corso Garibaldi,61,45.13740158081055,10.019200325012207,,,,,,,,,,,,
+coll002,image/jpeg,test002.jpg,Corso Garibaldi,60,45.137298583984375,10.019100189208984,,,,,,,,,,,,
+coll003,image/jpeg,test003.jpg,Via Alessandro Manzoni,5,45.136512756347656,10.023483276367188,,,,,,,,,,,,
+coll004,image/jpeg,test004.jpg,Ferron Violins,,45.13392639160156,10.025252342224121,,,,,,,,,,,,
+coll005,image/jpeg,test005.jpg,Liuteria Shop - Rapaccioli Antonio,,45.13610076904297,10.025699615478516,,,,,,,,,,,,
+coll006,image/jpeg,test006.jpg,Via Francesco Robolotti,40,45.13719940185547,10.024200439453125,,,,,,,,,,,,
+coll007,image/jpeg,test007.jpg,Piccolo Caffè Torriani,,45.13460159301758,10.025400161743164,,,,,,,,,,,,
+coll008,image/jpeg,test008.jpg,Via Alessandro Manzoni,7a,45.13660430908203,10.023497581481934,,,,,,,,,,,,
+coll009,image/jpeg,test009.jpg,Via Francesco Robolotti,16,45.13710021972656,10.023900032043457,,,,,,,,,,,,
+coll010,image/jpeg,test010.jpg,Via Francesco Robolotti,24,45.13710021972656,10.02400016784668,,,,,,,,,,,,
